@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<!---
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
@@ -14,3 +15,28 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+--->
+
+{% include base_path %}
+
+---
+
+---
+
+Journal Publications
+======
+* **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Positive Competitive Networks for Sparse Reconstruction,” *accepted for publication in Neural Computation*, January 2024, [URL](https://arxiv.org/abs/2311.03821)
+
+* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning," *accepted for publication in Automatica*, January 2024, [URL](https://arxiv.org/abs/2204.05382)
+
+* **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Euclidean Contractivity of Neural Networks With Symmetric Weights,” *IEEE Control Systems Letters*, vol. 7, pp. 1724-1729, May 2023, [URL](https://arxiv.org/abs/2302.13452).
+
+* **Veronica Centorrino**, Giuseppe Bilotta, Annalisa Cappello, Gaetana Ganci, Claudia Corradino, Ciro Del Negro. "A Particle Swarm Optimization–Based Heuristic to Optimize the Configuration of Artificial Barriers for the Mitigation of Lava Flow Risk", *Environmental Modelling & Software*, May 2021, [URL](https://www.sciencedirect.com/science/article/pii/S1364815221000669).
+
+Conference Publications
+======
+* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. "Contraction Analysis of Hopfield Neural Networks with Hebbian Learning," *IEEE 61st Conference on Decision and Control (CDC)*, Cancun, Mexico, 2022, pp. 622-627, [URL](https://ieeexplore.ieee.org/abstract/document/9993009).
+
+Preprints and Publications Under Review
+======
+* Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” *IEEE Transactions on Automatic Control*, June 2023, [URL](https://arxiv.org/abs/2305.15595)

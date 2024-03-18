@@ -39,4 +39,6 @@ Conference Publications
 
 Preprints and Publications Under Review
 ======
+* **Veronica Centorrino**, Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “On Weakly Contracting Dynamics for Convex Optimization,” *IEEE Control Systems Letters*, March 2024, [URL](https://arxiv.org/abs/2403.07572).
+
 * Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” *IEEE Transactions on Automatic Control*, June 2023, [URL](https://arxiv.org/abs/2305.15595)

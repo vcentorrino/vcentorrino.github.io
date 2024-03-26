@@ -210,7 +210,7 @@ kramdown:
 #  talks:
 #    output: false
 #    permalink: /:collection/:path/
- cv:
+  cv:
     output: true
     permalink: /:collection/:path/
 

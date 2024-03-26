@@ -197,20 +197,22 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+# collections:
+#  teaching:
+#    output: false
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
+# portfolio:
+#    output: false
+#    permalink: /:collection/:path/
+#  talks:
+#    output: false
+#    permalink: /:collection/:path/
+ cv:
+    output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:

@@ -16,3 +16,9 @@ In 2019, I graduated in Mathematics at the [University of Catania](https://web.d
 In 2020, I held an annual scholarship at the [Italian National Institute for Geophysics and Volcanology (INGV) in Catania](https://www.ct.ingv.it) on the topic “Mathematical models for volcanic hazard monitoring and decision-making methods for risk mitigation and uncertainty quantification”.
 
 In my spare time, I enjoy playing guitar, soccer, exploring new places... and eating pizza!
+
+---
+
+**NEWS**
+======
+* **2024 April:** Our article "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning" is now available online! ==> [URL](https://authors.elsevier.com/a/1is1l1AMvFfKI) .

@@ -21,4 +21,4 @@ In my spare time, I enjoy playing guitar, soccer, exploring new places... and ea
 
 **NEWS**
 ======
-* **2024 April:** The final version of your article "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning", that will appear soon in Automatica, is now available online! ==> [URL](https://authors.elsevier.com/a/1is1l1AMvFfKI) .
+* **2024 April:** The final version of your article "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning", that will appear soon in Automatica, is now available online! &rarr; [URL](https://authors.elsevier.com/a/1is1l1AMvFfKI).

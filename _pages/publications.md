@@ -25,9 +25,9 @@ author_profile: true
 
 Journal Publications
 ======
-* **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Positive Competitive Networks for Sparse Reconstruction,” *accepted for publication in Neural Computation*, January 2024, [URL](https://arxiv.org/abs/2311.03821)
+* **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Positive Competitive Networks for Sparse Reconstruction,” *Neural Computation*, May, 2024, 36 (6): 1163–1197, [URL](https://doi.org/10.1162/neco_a_01657)
 
-* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning," *accepted for publication in Automatica*, January 2024, [URL](https://arxiv.org/abs/2204.05382)
+* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning," *Automatica*, 2024, 164: 111636, [URL](https://www.sciencedirect.com/science/article/abs/pii/S0005109824001298)
 
 * **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Euclidean Contractivity of Neural Networks With Symmetric Weights,” *IEEE Control Systems Letters*, vol. 7, pp. 1724-1729, May 2023, [URL](https://arxiv.org/abs/2302.13452).
 

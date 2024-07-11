@@ -21,6 +21,6 @@ In my spare time, I enjoy playing guitar, soccer, exploring new places... and ea
 
 **NEWS**
 ======
-* **2024 June:**The final version of your article "On Weakly Contracting Dynamics for Convex Optimization", is now out in *IEEE Control Systems Letters*! &rarr; [URL](https://ieeexplore.ieee.org/abstract/document/10556639).
+* **2024 June:** The final version of your article "On Weakly Contracting Dynamics for Convex Optimization", is now out in *IEEE Control Systems Letters*! &rarr; [URL](https://ieeexplore.ieee.org/abstract/document/10556639).
 * **2024 May:** The final version of your article "Positive Competitive Networks for Sparse Reconstruction", is now out in *Neural Computation*! &rarr; [URL](https://doi.org/10.1162/neco_a_01657).
 * **2024 April:** The final version of your article "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning", that will appear soon in *Automatica*, is now available online! &rarr; [URL](https://authors.elsevier.com/a/1is1l1AMvFfKI).

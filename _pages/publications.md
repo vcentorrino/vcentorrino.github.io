@@ -25,6 +25,8 @@ author_profile: true
 
 Journal Publications
 ======
+* **Veronica Centorrino**, Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “On Weakly Contracting Dynamics for Convex Optimization,” *IEEE Control Systems Letters*, vol. 8, pp. 1745-1750, June 2024, doi: 10.1109/LCSYS.2024.3414348, [URL](https://arxiv.org/abs/2403.07572).
+
 * **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Positive Competitive Networks for Sparse Reconstruction,” *Neural Computation*, May, 2024, 36 (6): 1163–1197, [URL](https://doi.org/10.1162/neco_a_01657)
 
 * **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning," *Automatica*, 2024, 164: 111636, [URL](https://www.sciencedirect.com/science/article/abs/pii/S0005109824001298)
@@ -39,6 +41,5 @@ Conference Publications
 
 Preprints and Publications Under Review
 ======
-* **Veronica Centorrino**, Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “On Weakly Contracting Dynamics for Convex Optimization,” *IEEE Control Systems Letters*, March 2024, [URL](https://arxiv.org/abs/2403.07572).
 
-* Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach,” *IEEE Transactions on Automatic Control*, June 2023, [URL](https://arxiv.org/abs/2305.15595)
+* Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach,” *IEEE Transactions on Automatic Control*, June 2023, [URL](https://arxiv.org/abs/2305.15595).

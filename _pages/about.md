@@ -21,6 +21,8 @@ In my spare time, I enjoy playing guitar, soccer, exploring new places... and ea
 
 **NEWS**
 ======
+* **2024 December:** Our article “Euclidean Contractivity of Neural Networks With Symmetric Weights" with Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo ([URL](https://ieeexplore.ieee.org/abstract/document/10130086)), received the 2024 IEEE Control Systems Letters Outstanding Paper Award!
+* **2024 December:** Presented the work “On Weakly Contracting Dynamics for Convex Optimization" ([URL](https://ieeexplore.ieee.org/abstract/document/10556639)) on the invited Session *Contraction Theory in Systems and Control I* at CDC2024, Milan.
 * **2024 July:** Presented at the workshop "Variational Inequalities, Nash Equilibrium Problems and Applications" (VINEPA), Catania.
 * **2024 June:** Visited Professor Giancarlo Ferrari Trecate at EPFL Lausanne and gave a talk on contraction theory, biologically inspired neural networks and optimization.
 * **2024 May/June:** Enjoyed a six-week visit to the Automatic Control Laboratory at ETH Zürich, hosted by Professor Florian Dörfler: many stimulating conversations and cherished time with amazing people!

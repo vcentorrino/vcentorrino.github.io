@@ -25,7 +25,7 @@ In my spare time, I enjoy playing guitar, soccer, exploring new places... and ea
 
 **NEWS**
 ======
-* **2025:** Thrilled to share that, starting this September, I will be joining Professor [John Lygeros] (https://control.ee.ethz.ch/people/profile.john-lygeros.html)'s group as a Postdoctoral Researcher at the Automatic Control Laboratory at ETH Zürich!
+* **2025:** Thrilled to share that, starting this September, I will be joining Professor [John Lygeros](https://control.ee.ethz.ch/people/profile.john-lygeros.html)'s group as a Postdoctoral Researcher at the Automatic Control Laboratory at ETH Zürich!
 * **2025 June:** June 2025: Our paper “Time-varying convex optimization: A contraction and equilibrium tracking approach,” is now out in the *IEEE Transactions of Automatic Control*! &rarr; [URL](https://ieeexplore.ieee.org/document/11021386)
 This is joint work with Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo.
 * **2025 January:** Guess I am a Doctor now... but please don't call me if you are ill! Happy to share I successfully defended my PhD thesis titled “Contracting Dynamics for Biologically Plausible Neural Networks and Optimization” ([pdf](http://motion.me.ucsb.edu/pdf/phd-vc-dec24.pdf)) (optimum cum laude). Endless thanks to my supervisors, Francesco and Giovanni, and to everyone who has been part of this incredible journey.

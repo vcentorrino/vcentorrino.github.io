@@ -11,8 +11,7 @@ redirect_from:
 I am a Research Fellow in the [Department of Information Engineering, Electrical Engineering, and Applied Mathematics (DIEM)](https://www.diem.unisa.it/en) at the University of Salerno.
 My research interests lie at the intersection of control theory and applied mathematics, with a focus on robust nonlinear control, optimization, and bio-inspired neural networks.
 
-I earned my Bachelor’s (2017) and Master’s degree (2019) in Mathematics from the [University of Catania](https://web.dmi.unict.it), Italy.
-
+I received my Bachelor’s (2017) and Master’s degree (2019) in Mathematics from the [University of Catania](https://web.dmi.unict.it), Italy.
 In 2020, I was awarded an annual scholarship at the [Italian National Institute for Geophysics and Volcanology (INGV) in Catania](https://www.ct.ingv.it) on the topic “Mathematical models for volcanic hazard monitoring and decision-making methods for risk mitigation and uncertainty quantification”.
 
 I obtained my PhD in [Modeling and Engineering Risk and Complexity (MERC)](https://www.ssmeridionale.it/it-it/dottorato/rubriche/modeling-and-engineering-risk-and-complexity-merc-3123-1-017870059a030b9af70ed6080d930af0?programma-ospiti-14434#hprogramma-ospiti) at the Scuola Superiore Meridionale, Naples, Italy, where I was advised by [Francesco Bullo](https://me.ucsb.edu/people/francesco-bullo) and [Giovanni Russo](https://sites.google.com/view/giovanni-russo/home?authuser=0).

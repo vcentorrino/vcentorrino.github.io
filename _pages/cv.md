@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Catania, Italy, 2017
-* M.S. in Mathematics, University of Catania, Italy, 2019
-* Ph.D in Modelling and Engineering Risk and Complexity (MERC), Scuola Superiore Meridionale - To date
+* B.S. (cum laude) in Mathematics, University of Catania, Italy, 2017
+* M.S. (cum laude) in Mathematics, University of Catania, Italy, 2019
+* Ph.D (optimum cum laude) in Modelling and Engineering Risk and Complexity (MERC), Scuola Superiore Meridionale, 2025
 
 Work experience
 ======
+* November 2024 - to date: Research Fellow at the Department of Information Engineering, Electrical Engineering, and Applied Mathematics (DIEM), University of Salerno
 * 2020: Scholarship at Italian National Institute for Geophysics and Volcanology (INGV), Catania, Italy.
   * Topic: “Mathematical models for volcanic hazard monitoring and decision-making methods for risk mitigation and uncertainty quantification”.
  
@@ -40,3 +41,9 @@ Teaching
 
 * Fall 2018: Tutor at "Corso Zero in Matematica"
   * University of Catania, Catania, Italy.
+
+International Experience
+======
+* May - June 2024: Visiting Scholar at the Automatic Control Laboratory at ETH Zürich, hosted by Professor Florian Dörfler.
+
+* September 2022 - August 2023: Visiting Scholar at the University of California Santa Barbara in Professor Francesco Bullo’s lab at the Center for Control,  Dynamical Systems, and Computation.

@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in the [Department of Information Engineering, Electrical Engineering, and Applied Mathematics (DIEM)](https://www.diem.unisa.it/en) at the University of Salerno.
+I am a Postdoctoral researcher at the [Automatic Control Laboratory](https://control.ee.ethz.ch), ETH Zürich, working with Prof. [John Lygeros](https://control.ee.ethz.ch/people/profile.john-lygeros.html).
 My research interests lie at the intersection of control theory and applied mathematics, with a focus on robust nonlinear control, optimization, and bio-inspired neural networks.
-
-I received my Bachelor’s (2017) and Master’s degree (2019) in Mathematics from the [University of Catania](https://web.dmi.unict.it), Italy.
+I earned my Bachelor’s (2017) and Master’s degree (2019) in Mathematics from the [University of Catania](https://web.dmi.unict.it), Italy.
 In 2020, I was awarded an annual scholarship at the [Italian National Institute for Geophysics and Volcanology (INGV) in Catania](https://www.ct.ingv.it) on the topic “Mathematical models for volcanic hazard monitoring and decision-making methods for risk mitigation and uncertainty quantification”.
-
 I obtained my PhD in [Modeling and Engineering Risk and Complexity (MERC)](https://www.ssmeridionale.it/it-it/dottorato/rubriche/modeling-and-engineering-risk-and-complexity-merc-3123-1-017870059a030b9af70ed6080d930af0?programma-ospiti-14434#hprogramma-ospiti) at the Scuola Superiore Meridionale, Naples, Italy, where I was advised by [Francesco Bullo](https://me.ucsb.edu/people/francesco-bullo) and [Giovanni Russo](https://sites.google.com/view/giovanni-russo/home?authuser=0).
 During my PhD, I spent one year (Sept. 2022 – Aug. 2023) as a visiting scholar in Prof. Francesco Bullo’s lab at the [Center for Control, Dynamical Systems, and Computation](https://www.ccdc.ucsb.edu/) at University of California Santa Barbara.
 In spring 2024, I also visited the [Automatic Control Laboratory](https://control.ee.ethz.ch/) at ETH Zürich for six weeks, hosted by Professor Florian Dörfler.
+From November 2024 to August 2025, I was a Research Fellow in the [Department of Information Engineering, Electrical Engineering, and Applied Mathematics (DIEM)](https://www.diem.unisa.it/en) at the University of Salerno, working with Prof. Giovanni Russo.
+
 
 In my spare time, I enjoy playing guitar, soccer, exploring new places... and eating pizza!
+
 
 ---
 

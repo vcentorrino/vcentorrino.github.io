@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* November 2024 - to date: Research Fellow at the Department of Information Engineering, Electrical Engineering, and Applied Mathematics (DIEM), University of Salerno
+* September 2025 - To date: Postdoc at the Automatic Control Laboratory, ETH Zürich
+* November 2024 - August 2025: Research Fellow at the Department of Information Engineering, Electrical Engineering, and Applied Mathematics (DIEM), University of Salerno.
 * 2020: Scholarship at Italian National Institute for Geophysics and Volcanology (INGV), Catania, Italy.
   * Topic: “Mathematical models for volcanic hazard monitoring and decision-making methods for risk mitigation and uncertainty quantification”.
  

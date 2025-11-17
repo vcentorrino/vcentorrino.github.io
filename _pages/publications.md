@@ -25,7 +25,7 @@ author_profile: true
 
 Journal Publications
 ======
-* Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach,” *IEEE Transactions on Automatic Control*, pp. 1-15, June 2025, [URL](https://ieeexplore.ieee.org/document/11021386).
+* Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach,” *IEEE Transactions on Automatic Control*, vol. 70, pp. 7446–7460, 2025, [URL](https://ieeexplore.ieee.org/document/11021386).
 
 * **Veronica Centorrino**, Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “On Weakly Contracting Dynamics for Convex Optimization,” *IEEE Control Systems Letters*, vol. 8, pp. 1745-1750, June 2024, doi: 10.1109/LCSYS.2024.3414348, [URL](https://arxiv.org/abs/2403.07572).
 

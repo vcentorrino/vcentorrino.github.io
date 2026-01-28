@@ -25,6 +25,8 @@ author_profile: true
 
 Journal Publications
 ======
+* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. “Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales”, accepted for publication in *Neural Computation* 2025, [arXiv](https://arxiv.org/abs/2506.06134).
+
 * Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach,” *IEEE Transactions on Automatic Control*, vol. 70, pp. 7446–7460, 2025, [URL](https://ieeexplore.ieee.org/document/11021386).
 
 * **Veronica Centorrino**, Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “On Weakly Contracting Dynamics for Convex Optimization,” *IEEE Control Systems Letters*, vol. 8, pp. 1745-1750, June 2024, doi: 10.1109/LCSYS.2024.3414348, [URL](https://arxiv.org/abs/2403.07572).
@@ -33,7 +35,7 @@ Journal Publications
 
 * **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. "Modelling and Contractivity of Neural-Synaptic Networks with Hebbian Learning," *Automatica*, 2024, 164: 111636, [URL](https://www.sciencedirect.com/science/article/abs/pii/S0005109824001298).
 
-* **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Euclidean Contractivity of Neural Networks With Symmetric Weights,” *IEEE Control Systems Letters*, vol. 7, pp. 1724-1729, May 2023, [URL](https://arxiv.org/abs/2302.13452).
+* **Veronica Centorrino**, Anand Gokhale, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Euclidean Contractivity of Neural Networks With Symmetric Weights,” *IEEE Control Systems Letters*, vol. 7, pp. 1724-1729, May 2023, [URL](https://ieeexplore.ieee.org/document/10130086). **2024 IEEE Control Systems Letters Outstanding Paper Award**.
 
 * **Veronica Centorrino**, Giuseppe Bilotta, Annalisa Cappello, Gaetana Ganci, Claudia Corradino, Ciro Del Negro. "A Particle Swarm Optimization–Based Heuristic to Optimize the Configuration of Artificial Barriers for the Mitigation of Lava Flow Risk", *Environmental Modelling & Software*, May 2021, [URL](https://www.sciencedirect.com/science/article/pii/S1364815221000669).
 
@@ -45,6 +47,6 @@ Conference Publications
 
 Preprints and Publications Under Review
 ======
-* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. “Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales”, 2025, [arXiv](https://arxiv.org/abs/2506.06134).
+* **Veronica Centorrino**, Francesca Rossi, Francesco Bullo, and Giovanni Russo. “Neural Policy Composition from Free Energy Minimization”, 2025, [arXiv](https://arxiv.org/pdf/2512.04745).
 
-* **Veronica Centorrino**, Francesca Rossi, Francesco Bullo, and Giovanni Russo. “Proximal Gradient Dynamics and Feedback Control for Equality-Constrained Composite Optimization”, 2025, [arXiv](https://arxiv.org/abs/2503.15093).
+* Francesca Rossi, **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. “Proximal Gradient Dynamics and Feedback Control for Equality-Constrained Composite Optimization”, 2025, [arXiv](https://arxiv.org/abs/2503.15093).

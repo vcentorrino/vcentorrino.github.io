@@ -58,7 +58,7 @@ International Experience
 {% include base_path %}
 
 # Education and Academic Appointments
-======
+
 **Postdoctoral Researcher**  
 *Sep 2025 – present*  
 ETH Zürich, Switzerland  
@@ -94,7 +94,7 @@ Mark: **110/110 Magna cum Laude**
 
 
 # International Experience
-======
+
 **Visiting Scholar**  
 *May – June 2023*  
 ETH Zürich, Switzerland  
@@ -109,7 +109,7 @@ Host: Prof. Francesco Bullo
 
 
 # Work Experience
-======
+
 **Secondary-School Teacher**  
 *Jan – Oct 2020*  
 Istituto Polivalente Valdisavoia, Catania, Italy
@@ -126,7 +126,7 @@ International Conference “Optimization and Decision Science”
 
 
 # Awards and Honors
-======
+
 **IEEE Control Systems Letters Outstanding Paper Award** (2024)  
 Paper: *Euclidean Contractivity of Neural Networks with Symmetric Weights*
 
@@ -136,7 +136,7 @@ Paper: *Euclidean Contractivity of Neural Networks with Symmetric Weights*
 
 
 # Teaching and Mentoring
-======
+
 **Co-Instructor, Theory Moonshot (Doctoral Course)**  
 *2025*  
 NCCR Automation  
@@ -162,7 +162,7 @@ Talks
 --->
 
 # Languages
-======
+
 - Italian — Native  
 - English — Advanced  
 - German — Beginner

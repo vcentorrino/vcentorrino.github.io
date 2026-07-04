@@ -23,9 +23,9 @@ author_profile: true
 
 ---
 
-Journal Publications
+
 ======
-* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. “Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales”, accepted for publication in *Neural Computation* 2025, [arXiv](https://arxiv.org/abs/2506.06134).
+* **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. “Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales”, Neural Computation 38, no. 5, 725-764, 2026 [arXiv](https://arxiv.org/abs/2506.06134).
 
 * Alexander Davydov, **Veronica Centorrino**, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach,” *IEEE Transactions on Automatic Control*, vol. 70, pp. 7446–7460, 2025, [URL](https://ieeexplore.ieee.org/document/11021386).
 
@@ -42,11 +42,13 @@ Journal Publications
 
 Conference Publications
 ======
+* **Veronica Centorrino**, Francesca Rossi, Francesco Bullo, and Giovanni Russo. “Proximal Gradient Dynamics and Feedback Control for Equality-Constrained Composite Optimization”, European Control Conference (ECC) 2026, 2026 [arXiv](https://arxiv.org/abs/2503.15093).
+
 * **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. "Contraction Analysis of Hopfield Neural Networks with Hebbian Learning," *IEEE 61st Conference on Decision and Control (CDC)*, Cancun, Mexico, 2022, pp. 622-627, [URL](https://ieeexplore.ieee.org/abstract/document/9993009).
 
 
 Preprints and Publications Under Review
 ======
-* **Veronica Centorrino**, Francesca Rossi, Francesco Bullo, and Giovanni Russo. “Neural Policy Composition from Free Energy Minimization”, 2025, [arXiv](https://arxiv.org/pdf/2512.04745).
+* **Veronica Centorrino**, Rawan Hoteit, Efe C. Balta, and John Lygeros. “A Unified Control-Theoretic Framework for Saddle-Point Dynamics in Constrained Optimization”, 2026, [arXiv](https://arxiv.org/abs/2604.09252).
 
-* Francesca Rossi, **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo. “Proximal Gradient Dynamics and Feedback Control for Equality-Constrained Composite Optimization”, 2025, [arXiv](https://arxiv.org/abs/2503.15093).
+* Francesca Rossi, **Veronica Centorrino**, Francesco Bullo, and Giovanni Russo, “Neural Policy Composition from Free Energy Minimization”, 2025, [arXiv](https://arxiv.org/pdf/2512.04745).

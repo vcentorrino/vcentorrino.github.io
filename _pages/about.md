@@ -25,7 +25,13 @@ In my spare time, I enjoy playing guitar, soccer, exploring new places... and ea
 
 **NEWS**
 ======
-* **2025 December:** Our paper “Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales,” has been accepted for publication in *Neural Computation*! &rarr; [arXiv](https://arxiv.org/abs/2506.06134). This is joint work with Francesco Bullo and Giovanni Russo.
+* **2025 March:** Happy and honored to share that I will be presenting at the workshops Systems Theory of Optimization, Learning, and Control Algorithms [URL](https://sites.google.com/view/sta-ecc-2026-workshop/home) and Free Energy Principle for Control [URL](https://jamalihuzaifa9.github.io/FEP-Workshop-ECC-2026/) at ECC 2026 on July 7th!
+
+* **2025 March:** Visited Professor Mattia Frasca at University of Catania and gave a talk on "Contracting Dynamics for Convex Optimization: From Algorithm System Theory to Biologically Plausible Circuits". Thanks a lot Mattia for hosting me!
+
+* **2025 March:** Our paper “Proximal Gradient Dynamics and Feedback Control for Equality-Constrained Composite Optimization” has been accepted for presentation at the *European Control Conference (ECC) 2026*! See you in Reykjavík, Iceland in July! :)
+
+* **2025 December:** Our paper “Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales,” has been accepted for publication in *Neural Computation*! &rarr; [arXiv](https://arxiv.org/abs/2506.06134). This is joint work with Francesco Bullo and Giovanni Russo. The paper is available also here &rarr; [URL](https://authors.elsevier.com/a/1is1l1AMvFfKI).
 * **2025:** Thrilled to share that, starting this September, I will be joining Professor [John Lygeros](https://control.ee.ethz.ch/people/profile.john-lygeros.html)'s group as a Postdoctoral Researcher at the Automatic Control Laboratory at ETH Zürich!
 * **2025 June:** Our paper “Time-varying convex optimization: A contraction and equilibrium tracking approach,” is now out in the *IEEE Transactions of Automatic Control*! &rarr; [URL](https://ieeexplore.ieee.org/document/11021386). This is joint work with Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo.
 * **2025 January:** Guess I am a Doctor now... but please don't call me if you are ill! Happy to share I successfully defended my PhD thesis “Contracting Dynamics for Biologically Plausible Neural Networks and Optimization” ([pdf](http://motion.me.ucsb.edu/pdf/phd-vc-dec24.pdf)) (optimum cum laude). Endless thanks to my supervisors, Francesco and Giovanni, and to everyone who has been part of this incredible journey.

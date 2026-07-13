@@ -127,6 +127,9 @@ International Conference “Optimization and Decision Science”
 
 # Awards and Honors
 
+**European Systems & Control PhD Thesis Award** (2026)  
+European Embedded Control Institute (EECI). Annual European award recognizing an outstanding PhD thesis in Systems and Control.
+
 **IEEE Control Systems Letters Outstanding Paper Award** (2024)  
 Paper: *Euclidean Contractivity of Neural Networks with Symmetric Weights*
 

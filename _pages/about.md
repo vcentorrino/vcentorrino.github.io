@@ -25,16 +25,17 @@ In my spare time, I enjoy playing guitar, soccer, exploring new places... and ea
 
 **NEWS**
 ======
+* **2026 August:** Had a great time visiting Professor John Simpson-Porco at the University of Toronto and gave a talk on "A Control-Theoretic Framework for Optimization: Contraction Theory and Feedback Designs". Thanks you John for hosting me!
+* **2026 July:** Our paper “Proximal Gradient Dynamics and Feedback Control for Equality-Constrained Composite Optimization” has been accepted for publication in the ECC 2026 Special Issue of the European Journal of Control. You can temporarily access it from here [URL](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1nXC-3NPtwdMqO/1/0102019fb7f5050e-d61ec1ff-d288-429b-84a2-e4916257933e-000000/lFC6oj8hOUrkjHh3WgPFiC2UqRE=473)
+* **2026 July:** Aloha! Our paper “A Unified Control-Theoretic Framework for Saddle-Point Dynamics in Constrained Optimization” has been accepted for presentation at the *2026 65th IEEE Conference on Decision and Control (CDC)*! See you in Honolulu, Hawaii in December! :)
 * **2026 July:**
-Extremely grateful and honoured to share that I have received the **2026 European Systems & Control PhD Thesis Award**, sponsored by the [European Embedded Control Institute](https://www.eeci-igsc.eu/phdaward). Still can't believe it!
+Extremely grateful and honoured to share that I have received the **2025 European Systems & Control PhD Thesis Award**, sponsored by the [European Embedded Control Institute](https://www.eeci-igsc.eu/phdaward). Still can't believe it!
 Endless thanks to my supervisors, Francesco and Giovanni, my collaborators, and everyone who has been part of my PhD journey.
 
+News on the D-ITET department website: [url](https://ee.ethz.ch/news-and-events/d-itet-news-channel/2026/08/prestigious-award-for-dr-veronica-centorrinos-dissertation.html)
 * **2026 March:** Happy and honored to share that I will be presenting at the workshops Systems Theory of Optimization, Learning, and Control Algorithms [URL](https://sites.google.com/view/sta-ecc-2026-workshop/home) and Free Energy Principle for Control [URL](https://jamalihuzaifa9.github.io/FEP-Workshop-ECC-2026/) at ECC 2026 on July 7th!
-
-* **2026 March:** Visited Professor Mattia Frasca at University of Catania and gave a talk on "Contracting Dynamics for Convex Optimization: From Algorithm System Theory to Biologically Plausible Circuits". Thanks a lot Mattia for hosting me!
-
+* **2026 March:** Visited Professor Mattia Frasca at University of the Catania and gave a talk on "Contracting Dynamics for Convex Optimization: From Algorithm System Theory to Biologically Plausible Circuits". Thanks a lot Mattia for hosting me!
 * **2026 March:** Our paper “Proximal Gradient Dynamics and Feedback Control for Equality-Constrained Composite Optimization” has been accepted for presentation at the *European Control Conference (ECC) 2026*! See you in Reykjavík, Iceland in July! :)
-
 * **2025 December:** Our paper “Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales,” has been accepted for publication in *Neural Computation*! &rarr; [arXiv](https://arxiv.org/abs/2506.06134). This is joint work with Francesco Bullo and Giovanni Russo. The paper is available also here &rarr; [URL](https://authors.elsevier.com/a/1is1l1AMvFfKI).
 * **2025:** Thrilled to share that, starting this September, I will be joining Professor [John Lygeros](https://control.ee.ethz.ch/people/profile.john-lygeros.html)'s group as a Postdoctoral Researcher at the Automatic Control Laboratory at ETH Zürich!
 * **2025 June:** Our paper “Time-varying convex optimization: A contraction and equilibrium tracking approach,” is now out in the *IEEE Transactions of Automatic Control*! &rarr; [URL](https://ieeexplore.ieee.org/document/11021386). This is joint work with Alexander Davydov, Anand Gokhale, Giovanni Russo, and Francesco Bullo.
